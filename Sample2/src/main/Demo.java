@@ -17,5 +17,4 @@ public class Demo {
 		System.out.println(num1*num1);
 	}
 	
-
 }
