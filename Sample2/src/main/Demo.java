@@ -40,8 +40,15 @@ public class Demo {
 	public static void masterfun2(int num1){
 		System.out.println(num1*num1*num1);
 	}
+
+	public static void masterfun4(int num1){
+		System.out.println(num1*num1*num1);
+	}
+	
+
 	
 	public static void masterfun3(int num1){
 		System.out.println(num1*num1*num1);
 	}
+
 }
