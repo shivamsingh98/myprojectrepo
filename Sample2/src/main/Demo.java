@@ -31,7 +31,7 @@ public class Demo {
 		System.out.println(num1*num1*num1);
 	}
 	
-	
+	///Hello i made changes
 
 	public static void masterfun1(int num1){
 		System.out.println(num1*num1*num1);
@@ -40,8 +40,15 @@ public class Demo {
 	public static void masterfun2(int num1){
 		System.out.println(num1*num1*num1);
 	}
+
 	public static void masterfun4(int num1){
 		System.out.println(num1*num1*num1);
 	}
 	
+
+	
+	public static void masterfun3(int num1){
+		System.out.println(num1*num1*num1);
+	}
+
 }
