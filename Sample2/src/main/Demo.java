@@ -63,10 +63,5 @@ public class Demo {
 		System.out.println(num1*num1*num1);
 	}
 	
-	public static void br1fun4(int num1){
-		System.out.println(num1*num1*num1);
-	}
-	public static void masterfun6(int num1){
-		System.out.println(num1*num1*num1);
-	}
+	
 }
