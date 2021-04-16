@@ -19,9 +19,22 @@ public class Demo {
 	public static void cube(int num1){
 		System.out.println(num1*num1*num1);
 	}
+
 	public static void br2fun1(int num1){
 		System.out.println(num1*num1*num1);
 	}
 	
 	
+
+
+	public static void br1fun1(int num1){
+		System.out.println(num1*num1*num1);
+	}
+	
+	
+
+	public static void masterfun1(int num1){
+		System.out.println(num1*num1*num1);
+	}
+
 }
