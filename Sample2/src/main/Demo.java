@@ -81,4 +81,8 @@ public class Demo {
 	public static void br1fun5(int num1){
 		System.out.println(num1*num1*num1);
 	}
+	public static void masterfun9(int num1){
+
+		System.out.println(num1*num1*num1);
+	}
 }
